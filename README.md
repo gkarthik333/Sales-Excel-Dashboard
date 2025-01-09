@@ -51,7 +51,7 @@
 ![Data Modeling](https://github.com/user-attachments/assets/1e1a37eb-21aa-4ab8-b60e-b4ba419c3dd5)
 
 # Dashboard  
-<a href="https://github.com/gkarthik333/Sales-Excel-Dashboard-/blob/main/Sales%20Dashboard.xlsx">Click_here</a>
+<a href=https://github.com/gkarthik333/Sales-Excel-Dashboard/blob/main/Sales%20Dashboard.xlsx>Click_here</a>
 
 
 ## Without Filter :
