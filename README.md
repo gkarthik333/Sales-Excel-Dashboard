@@ -2,7 +2,7 @@
  This sales dashboard provides insights of profits across different shipping methods, states and country.
 # Data Sources
  The primary dataset used for this analysis is the "sales raw.xlsx" file, containing 3 table such as orders table, returns table ,users table .
-- <a href="https://github.com/gkarthik333/Sales-Excel-Dashboard-/blob/main/Sales%20Raw%20data.xlsx">Dataset</a>
+- <a href=https://github.com/gkarthik333/Sales-Excel-Dashboard/blob/main/Sales%20Raw%20data.xlsx>Dataset</a>
 
 ------------------------------------------
 
