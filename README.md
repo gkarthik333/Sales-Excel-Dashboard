@@ -44,18 +44,18 @@
 
 --------------------------------------
 
-# ETL:
-![Screenshot 2024-12-26 225931](https://github.com/user-attachments/assets/188981c7-b377-440f-8198-ba4f2fa3d0db)
-# Data modelling
-![Screenshot 2024-12-26 222851](https://github.com/user-attachments/assets/abfc5c85-dec5-4d45-b9e9-93dae60afecb)
+# ETL :
+![Power Query Editor](https://github.com/user-attachments/assets/7f16be78-d94f-4253-8ff6-d8d2c5a7c559)
+
+# Data modelling :
+![Data Modeling](https://github.com/user-attachments/assets/1e1a37eb-21aa-4ab8-b60e-b4ba419c3dd5)
 
 # Dashboard  
 <a href="https://github.com/gkarthik333/Sales-Excel-Dashboard-/blob/main/Sales%20Dashboard.xlsx">Click_here</a>
 
 
-## With Filtering 
-![Screenshot 2024-12-26 221957](https://github.com/user-attachments/assets/4e7575b3-7b56-43df-8ad9-c64471ed9363)
+## Without Filter :
+![Without Filter](https://github.com/user-attachments/assets/35001b6b-788b-4dc0-a08e-0f45ff2596ca)
 
-## Without Filtering 
-![Screenshot 2024-12-26 222102](https://github.com/user-attachments/assets/f4cb10f7-92f5-4870-a57b-33571411dd0b)
-
+## With Filter :
+![With Filter](https://github.com/user-attachments/assets/02d3983d-dfdc-4a2a-abe4-50df4dc94c3f)
