@@ -6,7 +6,7 @@
 
 ------------------------------------------
  
-# Table of Contents:
+# Table of Contents:     
 ## Orders Table                      
  1. Row ID                            
  2. Order Priority                     
